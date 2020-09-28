@@ -1,15 +1,15 @@
 module.exports = {
-  pathPrefix: "/leonids",
+  pathPrefix: "/blog",
   siteMetadata: {
-    title: `Leonids`,
+    title: `Offensive Security mindset`,
     author: {
-      name: `@ry_zou`,
-      summary: `web dev`,
+      name: `@nokosi`,
+      summary: `Red Teamer`,
     },
-    description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://renyuanz.github.io/leonids`,
+    description: `Pentester, Red Teamer, and Advocatus Diaboli `,
+    siteUrl: `https://nokosi.github.io/`,
     social: {
-      twitter: `ry_zou`,
+      twitter: `nokosi`,
     },
     defaultImage: "images/bg.jpeg",
   },
